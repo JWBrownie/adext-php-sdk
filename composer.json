@@ -1,5 +1,5 @@
 {
-  "name": "JWBrownie/adext-php-sdk",
+  "name": "jwbrownie/adext-php-sdk",
   "description": "Adext SDK for PHP",
   "keywords": ["adext", "sdk"],
   "type": "library",
