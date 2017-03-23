@@ -3,13 +3,13 @@
  * Created by PhpStorm.
  * User: Joe
  * Date: 3/22/17
- * Time: 1:46 PM
+ * Time: 1:45 PM
  */
 
 namespace Adext\ApiNode;
 
 
-class ApiNodeFactory
+class AdextNode
 {
 
 }

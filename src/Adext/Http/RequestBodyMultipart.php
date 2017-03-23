@@ -21,6 +21,7 @@ class RequestBodyMultipart implements RequestBodyInterface
         $this->files = $files;
         $this->boundary = $boundary ?: uniqid();
     }
+
     public function getBody()
     {
         // TODO: Implement getBody() method.
